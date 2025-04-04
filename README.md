@@ -12,7 +12,7 @@ Quickio is a full-fledged e-commerce platform built with React.js, Tailwind CSS,
 </p>
 
 <!-- Screenshot -->
-![Screenshot](./thumbnail.png)
+![Screenshot](./Thumbnail.png)
 
 </a>
 
