@@ -11,8 +11,7 @@
 Quickio is a full-fledged e-commerce platform built with React.js, Tailwind CSS, Node.js, and MongoDB. It provides users with a seamless shopping experience, secure authentication, and an intuitive admin panel for product management.
 </p>
 
-<br/>
-<br/>
+
 <!-- Screenshot -->
 ![Screenshot](./Thumbnail.png)
 
