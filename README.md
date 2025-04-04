@@ -12,12 +12,13 @@ Quickio is a full-fledged e-commerce platform built with React.js, Tailwind CSS,
 </p>
 
 
+
 <!-- Screenshot -->
 ![Screenshot](./Thumbnail.png)
 
 
-
-## Key Features
+<h3>Features</h3>
+## User Features:
 
 👉 Authentication System: A robust authentication system ensuring security and user privacy
 
